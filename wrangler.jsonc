@@ -9,13 +9,13 @@
     // Please note, the more simple setup for a domain looks like this:
     // {"custom_domain": true,"pattern": "yourdomain.com"}
     {
-      "zone_name": "parallel.ai",
-      "pattern": "oss.parallel.ai/agent",
+      "zone_name": "magi.app",
+      "pattern": "oss.magi.app/agent",
       "custom_domain": false
     },
     {
-      "zone_name": "parallel.ai",
-      "pattern": "oss.parallel.ai/agent/*",
+      "zone_name": "magi.app",
+      "pattern": "oss.magi.app/agent/*",
       "custom_domain": false
     }
   ]
